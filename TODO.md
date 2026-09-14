@@ -1,10 +1,14 @@
 # ToDo
 
-## Move email-labler to new infra
+## Create and host website through infra
 
 - [] Setup Droplet through OpenTofu
 - [] Configure Server through Ansible
 - [] Install k3s via Ansible
+- [] Deploy Website - kubectl + YAML
+
+## Move email-labler to new infra
+
 - [] Deploy Email Labler - kubectl + YAML
 
 ### Note
