@@ -2,7 +2,7 @@
 
 ## Create and host website through infra
 
-- [] Setup Droplet through OpenTofu
+- [] Setup Droplet through Terraform
 - [] Configure Server through Ansible
 - [] Install k3s via Ansible
 - [] Deploy Website - kubectl + YAML

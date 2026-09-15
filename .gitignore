@@ -1,1 +1,7 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
 *.tfvars
+crash.log
