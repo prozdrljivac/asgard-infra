@@ -3,6 +3,7 @@
 ## Create and host website through infra
 
 - [x] Setup Droplet through Terraform
+- [] Learn basic Ansible, by the end 20.09.
 - [] Configure Server through Ansible
 - [] Install k3s via Ansible
 - [] Deploy Website - kubectl + YAML
